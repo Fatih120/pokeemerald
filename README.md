@@ -37,8 +37,7 @@ Please refer to [INSTALL.md](INSTALL.md) to install a workspace and build thpupp
 You are welcome to make pull requests, though for major ideas with overhauls, engine changes, etc., it is highly recommended you discuss this in a casual sphere so that we are on the same page.
 
 We are using Guilded as our main hub of organization. If you are interested in the project, we recommend you [join us here](https://guilded.gg/MoF) via "The Mines" group.
-* [Discord](https://discord.gg/VGH3EWp) is available given its monopoly, but may be phased out eventually. You may discuss the project in the `#cooding` channel.
-* We (myself not included) may also be reached on IRC at [irc://irc.rizon.net/#mof](https://qchat.rizon.net/?channels=mof)
+* A member may also be reached via IRC at [irc://irc.rizon.net/#mof](https://qchat.rizon.net/?channels=mof)
 
 Please lurk moar if you decide to help out and provide changes or suggestions; proper communication and understanding is both free and important.
 
@@ -52,7 +51,7 @@ The script will add many lines and placeholders needed to add a new puppet into 
 As the project is not considered ready for release, there is no cause for adhering to credits this early when much of the materials are not done by us.
 
 * Fatih (Maintainer)
-* Akko (Co-Maintainer)
+* Solitai7e (Co-Maintainer)
 * へもぐろびんＡ１Ｃ (Dot, original work)
 * all pret/pokeemerald contributors
 * Touhou Puppet Play Community
